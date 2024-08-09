@@ -18,9 +18,9 @@
         {
             "background_music":
             [
-                "track_1.mp3.mp3",
-                "track_2.mp3.mp3",
-                "track_3.mp3.mp3",
+                "music/track_1.mp3.mp3",
+                "music/track_2.mp3.mp3",
+                "music/track_3.mp3.mp3",
             ]
         }
     }
