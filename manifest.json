@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "Disturbed music",
+    "description": "Get disturbed not angry.",
+    "version": "1",
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "developer":
+    {
+        "name": "Opera Software"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "background_music":
+            [
+                "track_1.mp3.mp3",
+                "track_2.mp3.mp3",
+                "track_3.mp3.mp3",
+            ]
+        }
+    }
+}
