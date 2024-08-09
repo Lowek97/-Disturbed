@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Disturbed music",
     "description": "Get disturbed not angry.",
-    "version": "1",
+    "version": "1.0",
     "icons":
     {
         "512": "icon_512.png"
@@ -18,9 +18,9 @@
         {
             "background_music":
             [
-                "music/track_1.mp3.mp3",
-                "music/track_2.mp3.mp3",
-                "music/track_3.mp3.mp3",
+                "music/track_1.mp3",
+                "music/track_2.mp3",
+                "music/track_3.mp3",
             ]
         }
     }
